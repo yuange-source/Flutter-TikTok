@@ -19,12 +19,12 @@
 [App点击下载](https://wwi.lanzoup.com/ihuiR0b0kxbg)
 
 ## 截图
-![截图1](./screenshots/pic_1.jpg) ![截图2](./screenshots/pic_2.jpg)
-![截图3](./screenshots/pic_3.jpg) ![截图4](./screenshots/pic_4.jpg)
-![截图5](./screenshots/pic_5.jpg) ![截图6](./screenshots/pic_6.jpg)
+![截图1](http://cdn.yuan988.cn/pic_1.jpg) | ![截图2](http://cdn.yuan988.cn/pic_2.jpg)
+![截图3](http://cdn.yuan988.cn/pic_3.jpg) | ![截图4](http://cdn.yuan988.cn/pic_4.jpg)
+![截图5](http://cdn.yuan988.cn/pic_5.jpg) | ![截图6](http://cdn.yuan988.cn/pic_6.jpg)
 
 ## 工程结构
-![工程结构](./screenshots/pic_7.jpg)
+![工程结构](http://cdn.yuan988.cn/pic_7.jpg)
 
 ## 技术
  * Flutter SDK: 2.5.2
@@ -106,14 +106,14 @@
 
 ## 欢迎加入QQ群
   * QQ群号 287712528 
-  ![QQ群二维码](./screenshots/pic_8.jpg)
+  ![QQ群二维码](http://cdn.yuan988.cn/pic_8.jpg)
  
 ## 感谢
    https://github.com/mjl0602/flutter_tiktok
 
 ## 捐赠
    生活所迫于现实生活的柴米油盐，无奈...你的捐赠将会为后来的产品迭代提供更大的动力！感谢老铁们！
-   ![捐赠二维码](./screenshots/pic_9.jpg)
+   ![捐赠二维码](http://cdn.yuan988.cn/pic_9.jpg)
   
 
 
