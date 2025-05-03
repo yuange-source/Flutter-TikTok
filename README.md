@@ -16,7 +16,9 @@
   * 搜索
 
 ## 下载体验
-[App点击下载](https://wwi.lanzoup.com/ihuiR0b0kxbg)
+- 温馨提示：目前已有适配flutter sdk 3.7.2版本，并且完善一些功能。
+- [新版本点击下载体验](http://dy.yuan988.cn:8888/pay/index)
+- [Java后台系统体验](http://dy.yuan988.cn:8888/login) 账号 test 密码 123456
 
 ## 截图
 ![截图1](http://cdn.yuan988.cn/pic_1.jpg) | ![截图2](http://cdn.yuan988.cn/pic_2.jpg)
@@ -108,12 +110,9 @@
   * QQ群号 287712528 
   ![QQ群二维码](http://cdn.yuan988.cn/pic_8.jpg)
  
-## 感谢
-   https://github.com/mjl0602/flutter_tiktok
-
 ## 捐赠
-   生活所迫于现实生活的柴米油盐，无奈...你的捐赠将会为后来的产品迭代提供更大的动力！感谢老铁们！
-   ![捐赠二维码](http://cdn.yuan988.cn/pic_9.jpg)
+   感谢支持！
+  [点击捐赠](http://dy.yuan988.cn:8888/pay/pay)
   
 
 
